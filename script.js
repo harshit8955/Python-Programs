@@ -17,6 +17,7 @@ categoryItems.forEach(item => {
     });
 });
 
+// Update price value display and filter plants on price change.
 priceFilter.addEventListener("input", () => {
     priceValue.innerText = priceFilter.value;
     filterPlants();
