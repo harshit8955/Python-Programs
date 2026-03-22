@@ -1,5 +1,3 @@
-def harshit():
-    a=5
-    print("hello",a);
-
-harshit()
+def fun():
+    print('Hello, World!')
+fun()
