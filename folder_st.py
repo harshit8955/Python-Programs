@@ -11,3 +11,8 @@ for file in folder:
 
 import os 
 os.rename("templates/index.html","templates/home.html")
+
+
+import os
+os.remove("templates/home.html")
+
