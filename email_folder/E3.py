@@ -2,7 +2,7 @@ import smtplib
 
 # Sender and receiver email
 sender_email = "harshitgunjan8020@gmail.com"
-receiver_email = "harshitffid8020@gmai.com"
+receiver_email = "harshit6549@gmai.com"
 
 # Gmail App Password (NOT your normal Gmail password)
 password = "kbra ywvn zzsk lxzt"    #we have to put app password here instead of normal password because google does not allow to use normal password for security reasons. So we have to generate app password from our google account and use that app password here.
